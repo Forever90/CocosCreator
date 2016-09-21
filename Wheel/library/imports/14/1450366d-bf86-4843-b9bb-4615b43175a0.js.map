@@ -1,0 +1,12 @@
+{
+  "version": 3,
+  "sources": [
+    "unknown"
+  ],
+  "names": [],
+  "mappings": "AAAA,IAAI,MAAM,GAAG,MAAM,IAAI,EAAE,CAAC;AAC1B,MAAM,CAAC,QAAQ,GAAG,CAAC,IAAI,EAAC,IAAI,EAAC,IAAI,EAAC,IAAI,EAAC,IAAI,EAAC,IAAI,EAAC,IAAI,EAAC,IAAI,EAAC,IAAI,EAAC,IAAI,EAAC,IAAI,EAAC,KAAK,EAAC,IAAI,EAAC,IAAI,EAAC,IAAI,EAAC,IAAI,EAAC,KAAK,EAAC,IAAI,CAAC,CAAC;;AAEhH,MAAM,CAAC,OAAO,GAAG,MAAM,CAAC",
+  "file": "unknown",
+  "sourcesContent": [
+    "var Config = Config || {};\nConfig.gearInfo = ['2x','6x','2x','4x','5x','4x','8x','4x','3x','5x','3x','10x','6x','2x','2x','3x','10x','8x'];\n\nmodule.exports = Config;"
+  ]
+}

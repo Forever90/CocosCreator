@@ -1,0 +1,15 @@
+{
+  "androidStudio": false,
+  "buildPath": "/Users/xujw/xujwWork/CocosCreator/Wheel/build",
+  "debug": false,
+  "keystoreAlias": "",
+  "keystoreAliasPassword": "",
+  "keystorePassword": "",
+  "keystorePath": "",
+  "platform": "web-desktop",
+  "previewHeight": 800,
+  "previewWidth": 480,
+  "sourceMaps": false,
+  "template": "default",
+  "useDebugKeystore": true
+}

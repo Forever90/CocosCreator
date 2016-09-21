@@ -1,0 +1,26 @@
+{
+  "collision-matrix": [
+    [
+      true
+    ]
+  ],
+  "excluded-modules": [
+    "Mask",
+    "Spine Skeleton",
+    "TiledMap",
+    "LabelOutline",
+    "ScrollBar",
+    "ScrollView",
+    "VideoPlayer",
+    "MotionStreak",
+    "Collider",
+    "Graphics",
+    "CCSpriteDistortion",
+    "ParticleSystem",
+    "Layout"
+  ],
+  "group-list": [
+    "default"
+  ],
+  "start-scene": "3d238de3-51b4-4076-9543-3ce4c9f2985b"
+}
