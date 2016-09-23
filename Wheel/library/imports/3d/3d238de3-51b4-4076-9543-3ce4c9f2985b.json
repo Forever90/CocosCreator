@@ -779,8 +779,8 @@
       "width": 480,
       "height": 800
     },
-    "_fitWidth": false,
-    "_fitHeight": true
+    "_fitWidth": true,
+    "_fitHeight": false
   },
   {
     "__type__": "5261c81JlpM0JY8b6TQZadt",
@@ -796,7 +796,7 @@
     "wheelSp": {
       "__id__": 9
     },
-    "maxSpeed": 6,
+    "maxSpeed": 8,
     "duration": 2,
     "acc": 0.1,
     "targetID": 0,

@@ -17,7 +17,7 @@ cc.Class({
             type: cc.Sprite
         },
         maxSpeed: {
-            "default": 3,
+            "default": 5,
             type: cc.Float,
             max: 10,
             min: 2

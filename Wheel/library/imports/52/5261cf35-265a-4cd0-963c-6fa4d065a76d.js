@@ -13,7 +13,7 @@ cc.Class({
             type: cc.Sprite
         },
         maxSpeed: {
-            "default": 3,
+            "default": 5,
             type: cc.Float,
             max: 10,
             min: 2
@@ -156,8 +156,8 @@ cc.Class({
                 this.wheelSp.node.rotation = this.finalAngle;
                 if (this.springback) {
                     //倒转一个齿轮
-                    var act = new cc.rotateBy(0.5, -this.gearAngle);
-                    var seq = cc.sequence(new cc.delayTime(0.3), act, cc.callFunc(this.showRes, this));
+                    var act = new cc.rotateBy(0.6, -this.gearAngle);
+                    var seq = cc.sequence(new cc.delayTime(0.2), act, cc.callFunc(this.showRes, this));
                     this.wheelSp.node.runAction(seq);
                 } else {
                     this.showRes();
